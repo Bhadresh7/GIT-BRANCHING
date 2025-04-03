@@ -1,0 +1,6 @@
+This is feature two
+<<<<<<< HEAD
+this is second line added by dev2
+=======
+This is another feature by dev1
+>>>>>>> 789912a13d002aa84d24c6fcc2d0195a74573251
